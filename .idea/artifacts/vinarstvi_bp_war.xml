@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="vinarstvi-bp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="vinarstvi-bp-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="vinarstvi-bp:war exploded" />
+    </root>
+  </artifact>
+</component>
